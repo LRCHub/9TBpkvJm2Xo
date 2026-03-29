@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "つながリーヨ",
   "base_artist": "Ｔ－Ｐｉｓｔｏｎｚ＋ＫＭＣ",
-  "createdAt": "2026-03-29T14:27:10.841782Z",
+  "createdAt": "2026-03-29T14:28:25.377160Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "T-Pistonz+KMC",
       "has_synced": false,
       "path": "select/pl_01_つながリーヨ_T-Pistonz+KMC.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "つながリーヨ",
+      "artist": "Ｔ－Ｐｉｓｔｏｎｚ＋ＫＭＣ",
+      "has_synced": false,
+      "path": "select/localdb_01_つながリーヨ_T-Pistonz+KMC.txt",
+      "repo_name": "9TBpkvJm2Xo"
     }
   ]
 }
